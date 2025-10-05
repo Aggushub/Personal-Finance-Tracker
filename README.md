@@ -1,6 +1,3 @@
-Got it! Here’s a **single comprehensive README.md** including **filter by date/category**, all features, installation, usage, and visuals—fully self-contained:
-
-````markdown
 # 💰 My Finance Tracker Assistant
 
 **My Finance Tracker Assistant** is a Python desktop app to manage your personal finances efficiently. Track income & expenses, generate summary reports, visualize trends, and export data.  
