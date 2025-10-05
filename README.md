@@ -1,9 +1,10 @@
 # 💰 My Finance Tracker Assistant
 
 **My Finance Tracker Assistant** is a fun and intuitive Python desktop app designed to help you take control of your personal finances! 🏦 Track your income and expenses, visualize trends with interactive charts 📊, generate detailed summary reports, and keep your data safe with easy exports 🗃️. Perfect for budgeting, planning, and achieving your financial goals! 💡
+
 ---
 
-##🚀 Features
+## 🚀 Features
 
 - 📝 **Add Expenses** – Record amount, description, category (Income/Expenditure), and date.  
 - 🔄 **Update & Delete** – Modify or remove existing records.  
@@ -14,7 +15,7 @@
 
 ---
 
-##🛠️ Installation
+## 🛠️ Installation
 
 1. Clone this repository:  
 ```bash
@@ -35,7 +36,7 @@ python main.py
 
 ---
 
-##🖱️ Usage
+## 🖱️ Usage
 
 1. Enter **Amount**, **Description**, **Category** (Income or Expenditure), and **Date**.
 2. Click **Add Expense** to save.
@@ -46,7 +47,7 @@ python main.py
 
 ---
 
-##🖼️ Screenshots
+## 🖼️ Screenshots
 
 ![Main Window](screenshots/main_window.png)
 ![Expense Table](screenshots/expense_table.png)
@@ -54,7 +55,7 @@ python main.py
 
 ---
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 * **Python 3.x**
 * **Tkinter** – GUI
